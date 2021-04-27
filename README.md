@@ -12,7 +12,7 @@ You can find the swagger UI documentation for this project by using this endpoin
 
 3. run the application
 
-    npm start
+      npm start
 
 4. open the swagger ui with the endpoint /api-doc
 
